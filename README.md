@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![glyserin's GitHub stats](https://github-readme-stats.vercel.app/api?username=glyserin&show_icons=true&theme=radical)
+![most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=glyserin&layout=compact&theme=radical)
