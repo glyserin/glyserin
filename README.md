@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 -->
 
 <div>
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=glyserin&show_icons=true&theme=ayu-mirage" alt="glyserin's GitHub stats" />
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=glyserin&langs_count=10&layout=compact&theme=ayu-mirage" alt="Top Languages" />
+  <img height=180 src="https://github-readme-stats.vercel.app/api?username=glyserin&show_icons=true&theme=ayu-mirage" alt="glyserin's GitHub stats" />
+  <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=glyserin&langs_count=10&layout=compact&theme=ayu-mirage" alt="Top Languages" />
 </div>
 <br>
 
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-#### 📚 Tech Stack
+### 📚 Tech Stack
 <div>
   <img src="https://img.shields.io/badge/C-5f5e5e?logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />  
@@ -59,6 +59,6 @@ Here are some ideas to get you started:
 <br>
 
 
-#### 🏄‍♂️ Experience
-- 🐧 Programmers DevCourse - Linux System & Kernel Expert Course (2023.10 ~ 2024.03)
-- 🦅 Veritross System Team Member (2024.04 ~ )
+### 💻 Experience
+🐧 Programmers DevCourse - Linux System & Kernel Expert Course (2023.10 ~ 2024.03)  
+🦅 Veritross System Team Member (2024.04 ~ )
