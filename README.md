@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 #### 🌐 Click for My
 <a href="https://www.linkedin.com/in/serin-cheong-179513292/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/serin-cheong-179513292/"/></a>
-<a href="https://velog.io/@glyserin"><img src="https://img.shields.io/badge/Tech%20Blog-20C997?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@glyserin"/></a>
+<a href="https://velog.io/@glyserin"><img src="https://img.shields.io/badge/Tech%20Blog-41b692?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@glyserin"/></a>
 <a href="mailto:serin.cheong@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=serin.cheong@gmail.com"/></a>
 <br>
 <br>
