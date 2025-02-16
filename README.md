@@ -60,8 +60,8 @@ Here are some ideas to get you started:
 
 
 ### 💻 Experience
-🎧 [GeeksLoft](https://www.geeksloft.com/) Embedded System Development Trainee Researcher (2024.09 ~ )  
-🦅 [Veritross](https://veritross.org/) System Team Member (2024.03 ~ )  
+🎧 [Geeks Loft Inc.](https://www.geeksloft.com/) Embedded System Development Researcher (2024.09 ~ )  
+🦅 [RNDix](https://rndix.co.kr/) System Group KVStore Team Member (2024.03 ~ )  
 🐧 Programmers DevCourse - Linux System & Kernel Expert Course (2023.10 ~ 2024.03)  
 
 
