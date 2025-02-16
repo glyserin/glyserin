@@ -60,8 +60,9 @@ Here are some ideas to get you started:
 
 
 ### 💻 Experience
-🎧 [Geeks Loft Inc.](https://www.geeksloft.com/) Embedded System Development Researcher (2024.09 ~ )  
-🦅 [RNDix](https://rndix.co.kr/) System Group KVStore Team Member (2024.03 ~ )  
-🐧 Programmers DevCourse - Linux System & Kernel Expert Course (2023.10 ~ 2024.03)  
+🎧 [Geeks Loft Inc.](https://www.geeksloft.com/) Embedded System Development Researcher (2024.09 -)  
+🦅 [RNDix](https://rndix.co.kr/) System Group KVStore Team Member (2024.03 -)  
+🐧 Programmers DevCourse - Linux System & Kernel Expert Course (2023.10 - 2024.03)  
+🏫 Hongik University - Computer Engineering (2020.03 - 2025.02)
 
 
